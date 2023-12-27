@@ -56,7 +56,7 @@ stackrefill-1.20.2-4.1|인벤토리 편의성|[Stack Refill curse forge](https:/
 > 이후의 과정
 
 1. **윈도우 + R**키를 입력하여 실행창으로 진입
-2. 입력창에 **%appdata%**를 기입 후 확인
+2. 입력창에 <b>%appdata%</b>를 기입 후 확인
 3. **.minecraft** 디렉토리(폴더)로 진입
 4. **mods 폴더**가 있다면 **mods 폴더에 다운 받은 모드(.jar 파일들, forge 제외)를 옮김** <--- 없다면, mods 폴더를 만든 뒤에 넣으면 됨
 5. **config 폴더**가 있다면 **config 폴더에 다운 받은 config(config 폴더의 내용물)를 옮김** <--- 없다면, config 폴더를 그대로 넣으면 됨
