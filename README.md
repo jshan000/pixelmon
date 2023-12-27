@@ -13,7 +13,7 @@
 본 레파지토리의 **mods.zip** 다운로드
 
 <details>
-<summary>포함된 모드</summary>
+<summary>**포함된 모드**</summary>
 
 모드 | 개요 | 사이트 링크
 -----|------|--------------
