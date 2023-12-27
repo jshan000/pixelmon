@@ -55,7 +55,7 @@ stackrefill-1.20.2-4.1|인벤토리 편의성|[Stack Refill curse forge](https:/
 
 > Forge 설치
 
-1. 다운받은 **forge-1.20.2-48.0.22-installer.jar** 실행
+1. 다운받은 **forge-1.20.2-48.0.22-installer.jar** 실행 <--- Java 8 및 jdk 17이 없다면 실행되지 않음.. 먼저 다운 받을 것
 2. Install client 클릭 후 OK <-- 만약 자신이 임의로 마인크래프트 폴더를 옮긴 적이 있다면 경로를 지정, 모르겠으면 안하면 됨
 3. 이후 실행시킬 때 추가 설치는 아래 항목에서 다룸
 
