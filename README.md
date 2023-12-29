@@ -33,7 +33,8 @@
 ![다운로드 누른 후 버튼](https://github.com/jshan000/pixelmon/assets/54829817/894167d1-0c5a-46b7-9bfc-7db380c936f8)  
 <sup>다운로드를 누르면 5초를 기다린 후 우측 상단에 skip 버튼이 생기니 눌러서 다운하자</sup>
 
-
+![mods.zip](https://github.com/jshan000/pixelmon/assets/54829817/8c2a1782-b84b-41a7-84c9-65f984305e70)
+<sup>mods.zip은 해당 문서에서 위로 올라가보면 존재하니 참고</sup>
 
 
 <details>
