@@ -141,3 +141,21 @@ smoothboot-forge-1.16.4-1.2.2|부팅 속도 개선|추후 추가
 3. 침대가 포켓몬을 치료하지 않음
 4. **자전거를 자체적으로 금지**
 5. 대책으로 라이딩을 해금, 속도 제한은 현재 땅 0.2, 하늘 0.8
+
+**demensions**
+1. wild berry를 생성
+
+**graphics**
+1. attck animation 가시거리 ~40~->20
+2. texture 가시거리 ~32~->16
+
+**spawning**
+1. despawn 거리 ~80~->40
+2. legendary spawn tick(등장 주기, 200틱당 1초) ~25000(1250초)~->1500(75초)
+   2.1. 마크의 하루는 24000틱 이므로 모든 시간대에 등장하도록 설정
+3. legendary spawn chance(등장 확률) ~30%~->5%
+   3.1. 등장 기회를 16배 이상 늘렸기에 보정으로 등장확률을 5%로 조정 (약 2배 상향된 확률)
+4. entity per player(플레이어 별 엔티티 총량) ~30~->20
+5. minimum distance between spawns ~15~->10
+6. maximum spawned flying pokemon per player ~45~->20
+
