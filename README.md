@@ -19,7 +19,8 @@
 
 ## 1. 다운로드 방법
 
-모드와 Forge의 다운로드 및 설치 방법에 대해서 다루는 파트입니다.
+모드와 Forge의 다운로드 및 설치 방법에 대해서 다루는 파트
+
 
 ### 1. 1. 모드 목록
 
@@ -38,13 +39,26 @@
 
 
 <details>
-<summary>포함된 모드(참고용)</summary>
+<summary>포함된 모드(*참고용)</summary>
 
 모드 | 개요 | 사이트 링크
 -----|------|--------------
-
+Bookshelf-Forge-1.16.5-10.4.33|모드 호환성 패치|추후 추가
+byg-1.3.6|바이옴 추가|추후 추가
+entityculling-forge-mc1.16.5-1.5.2|클라이언트 렉 개선|추후 추가
+ferritecore-2.1.1-forge|램 사용률 최적화|추후 추가
+Hwyla-forge-1.10.11-B78_1.16.2|툴팁 출력|추후 추가
+jei-1.16.5-7.8.0.1009|아이템 목록 출력|추후 추가
+journeymap-1.16.5-5.8.5p6|미니맵|추후 추가
+NaturesCompass-1.16.5-1.9.1-forge|바이옴 나침반|추후 추가
+Pixelmon-1.16.5-9.1.10-universal|픽셀몬|https://reforged.gg/ko
+PixelmonInformation-1.16.5-9.0.11-2.3.0|픽셀몬 정보 추가|추후 추가
+PokeballReveal-1.16.5-1.0.0|픽셀몬 볼 정보 추가|추후 추가
+smoothboot-forge-1.16.4-1.2.2|부팅 속도 개선|추후 추가
 
 </details>
+
+**모두 다운 받았다면 아래로 내려가자**
 
 
 ### 1. 2. 설치 방법
