@@ -152,12 +152,18 @@ smoothboot-forge-1.16.4-1.2.2|부팅 속도 개선|추후 추가
 **spawning**
 1. despawn 거리 ~80~->40
 2. legendary spawn tick(등장 주기, 200틱당 1초) ~25000(1250초)~->1500(75초)
+   
    2.1. 마크의 하루는 24000틱 이므로 모든 시간대에 등장하도록 설정
+
    2.2. 픽셀몬 자체적으로 1500틱에 최대 10000틱 정도를 가감하여 등장
+   
 3. legendary spawn chance(등장 확률) ~30%~->~~5%~~ 25%
+
    3.1. ~~등장 기회를 16배 이상 늘렸기에 보정으로 등장확률을 5%로 조정 (약 2배 상향된 확률)~~
+
    3.2 \[2.2\]에 의해 등장 확률을 25%로 수정
-5. entity per player(플레이어 별 엔티티 총량) ~30~->20
-6. minimum distance between spawns ~15~->10
-7. maximum spawned flying pokemon per player ~45~->20
+
+4. entity per player(플레이어 별 엔티티 총량) ~30~->20
+5. minimum distance between spawns ~15~->10
+6. maximum spawned flying pokemon per player ~45~->20
 
